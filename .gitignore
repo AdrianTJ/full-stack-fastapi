@@ -4,3 +4,9 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
+# Mine
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
